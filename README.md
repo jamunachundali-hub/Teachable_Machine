@@ -5,21 +5,24 @@ To create a professional GitHub README for your model, you should include an ove
 ## Proof of Our Model:
 Here is the screenshot.
 
-Since the URL `BJSG26qnI` points to a hosted **Image Model**, here is a template you can use.
 <img width="509" height="691" alt="Screenshot 2026-02-11 112614" src="https://github.com/user-attachments/assets/eea46f38-eb99-49c5-9a3f-27e821115f8d" />
 <img width="587" height="740" alt="Screenshot 2026-02-11 112708" src="https://github.com/user-attachments/assets/2d66dba8-7291-4360-8593-a2f08d4e4221" />
 <img width="696" height="782" alt="Screenshot 2026-02-11 112731" src="https://github.com/user-attachments/assets/e60b1de3-c61c-442f-bf03-1277afe23262" />
 
 
 ### 💡 Preparation Tip
-
-Before pasting this, check your model and fill in the **[Class Names]** (e.g., "Dog", "Cat", "Empty") in the **Classes** section below.
+ I trained AI in three different Classes:
+ 1st Class: Back side of the mobile: Identifies the mobile's back side while showing it in the camera.
+ 2nd class: Copy/notebook: Identifies the copy/notebook while showing it in the camera.
+ 3rd class: Blank: 3rd class for when no objects are present.
 
 ---
+# Tools Used
+## Machine Learning: To gather data and train the AI.
+## GitHub: To host the machine learning document, and share this project in the Word file.
 
-# Teachable Machine Image Classifier
-
-This repository contains a machine learning model trained using [Google's Teachable Machine](https://teachablemachine.withgoogle.com/). This specific model is an **Image Project** that can classify images in real-time via a webcam or from file uploads.
+# Reflection:
+This repository contains a machine learning model trained using [Google's Teachable Machine](https://teachablemachine.withgoogle.com/). This specific model is an **Image Project** that classifies images in real time via a webcam or file uploads.
 
 ## 🔗 Model Link
 
