@@ -28,11 +28,11 @@ This repository contains a machine learning model trained using [Google's Teacha
 
 The model is trained to recognize the following categories:
 
-** 1st Class: Back side of the mobile:** Identifies the mobile's back side while showing it in the camera.
+ **1st Class: Back side of the mobile:** Identifies the mobile's back side while showing it in the camera.
  
  **2nd class: Copy/notebook:** Identifies the copy/notebook while showing it in the camera.
  
-** 3rd class: Blank: ** 3rd class for when no objects are present.
+ **3rd class: Blank:** 3rd class for when no objects are present.
 
 ## 🚀 How to Use
 
