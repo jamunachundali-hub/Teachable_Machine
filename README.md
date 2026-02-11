@@ -13,16 +13,7 @@ Here is the screenshot.
 ### 💡 Preparation Tip
  I trained AI in three different Classes
 ---
-# Tools Used
-**Machine Learning**: To gather data and train the AI.
-**GitHub:** To host the machine learning document and share this project in the Word file.
 
-# Reflection:
-This repository contains a machine learning model trained using [Google's Teachable Machine](https://teachablemachine.withgoogle.com/). This specific model is an **Image Project** that classifies images in real time via a webcam or file uploads.
-
-## 🔗 Model Link
-
-* **Hosted Model:** [https://teachablemachine.withgoogle.com/models/BJSG26qnI/](https://teachablemachine.withgoogle.com/models/BJSG26qnI/)
 
 ## 🏷️ Classes
 
@@ -33,6 +24,22 @@ The model is trained to recognize the following categories:
  **2nd class: Copy/notebook:** Identifies the copy/notebook while showing it in the camera.
  
  **3rd class: Blank:** 3rd class for when no objects are present.
+
+
+ # Tools Used
+**Machine Learning**: To gather data and train the AI.
+
+**GitHub:** To host the machine learning document and share this project in the Word file.
+
+# Reflection:
+This repository contains a machine learning model trained using [Google's Teachable Machine](https://teachablemachine.withgoogle.com/). This specific model is an **Image Project** that classifies images in real time via a webcam or file uploads.
+
+
+## 🔗 Model Link
+
+* **Hosted Model:** [https://teachablemachine.withgoogle.com/models/BJSG26qnI/](https://teachablemachine.withgoogle.com/models/BJSG26qnI/)
+
+
 
 ## 🚀 How to Use
 
