@@ -2,6 +2,8 @@
 Supervised Learning
 To create a professional GitHub README for your model, you should include an overview of what the model does, how to use it in code, and technical details about the classes it recognizes.
 
+## Proof of Our Model:
+
 Since the URL `BJSG26qnI` points to a hosted **Image Model**, here is a template you can use.
 <img width="509" height="691" alt="Screenshot 2026-02-11 112614" src="https://github.com/user-attachments/assets/eea46f38-eb99-49c5-9a3f-27e821115f8d" />
 <img width="587" height="740" alt="Screenshot 2026-02-11 112708" src="https://github.com/user-attachments/assets/2d66dba8-7291-4360-8593-a2f08d4e4221" />
