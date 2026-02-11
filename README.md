@@ -114,7 +114,7 @@ import numpy as np
 # Load the model
 model = load_model('keras_model.h5')
 
-# Create the array of the right shape to feed into the keras model
+# Create the array of the right shape to feed into the Keras model
 data = np.ndarray(shape=(1, 224, 224, 3), dtype=np.float32)
 image = Image.open('test_image.jpg')
 size = (224, 224)
