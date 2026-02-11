@@ -11,15 +11,7 @@ Here is the screenshot.
 
 
 ### 💡 Preparation Tip
- I trained AI in three different Classes:
- 
- 1st Class: Back side of the mobile: Identifies the mobile's back side while showing it in the camera.
- 
- 2nd class: Copy/notebook: Identifies the copy/notebook while showing it in the camera.
- 
- 3rd class: Blank: 3rd class for when no objects are present.
- 
-
+ I trained AI in three different Classes
 ---
 # Tools Used
 **Machine Learning**: To gather data and train the AI.
@@ -36,9 +28,11 @@ This repository contains a machine learning model trained using [Google's Teacha
 
 The model is trained to recognize the following categories:
 
-* **[Class 1 Name]** - *Brief description of what this class represents.*
-* **[Class 2 Name]** - *Brief description of what this class represents.*
-* *(Add more if applicable)*
+** 1st Class: Back side of the mobile:** Identifies the mobile's back side while showing it in the camera.
+ 
+ **2nd class: Copy/notebook:** Identifies the copy/notebook while showing it in the camera.
+ 
+** 3rd class: Blank: ** 3rd class for when no objects are present.
 
 ## 🚀 How to Use
 
