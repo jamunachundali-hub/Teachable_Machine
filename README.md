@@ -22,8 +22,8 @@ Here is the screenshot.
 
 ---
 # Tools Used
-## Machine Learning: To gather data and train the AI.
-## GitHub: To host the machine learning document, and share this project in the Word file.
+**Machine Learning**: To gather data and train the AI.
+**GitHub:** To host the machine learning document and share this project in the Word file.
 
 # Reflection:
 This repository contains a machine learning model trained using [Google's Teachable Machine](https://teachablemachine.withgoogle.com/). This specific model is an **Image Project** that classifies images in real time via a webcam or file uploads.
