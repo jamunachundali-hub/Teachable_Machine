@@ -12,9 +12,13 @@ Here is the screenshot.
 
 ### 💡 Preparation Tip
  I trained AI in three different Classes:
+ 
  1st Class: Back side of the mobile: Identifies the mobile's back side while showing it in the camera.
+ 
  2nd class: Copy/notebook: Identifies the copy/notebook while showing it in the camera.
+ 
  3rd class: Blank: 3rd class for when no objects are present.
+ 
 
 ---
 # Tools Used
