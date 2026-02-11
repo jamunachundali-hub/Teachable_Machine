@@ -19,9 +19,9 @@ Here is the screenshot.
 
 The model is trained to recognize the following categories:
 
- **1st Class: Back side of the mobile:** Identifies the mobile's back side while showing it in the camera.
+ **1st Class: Back side of the mobile:** Identifies the mobile's back side while showing it to the camera.
  
- **2nd class: Copy/notebook:** Identifies the copy/notebook while showing it in the camera.
+ **2nd class: Copy/notebook:** Identifies the copy/notebook while showing it to the camera.
  
  **3rd class: Blank:** 3rd class for when no objects are present.
 
